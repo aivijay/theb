@@ -1,20 +1,16 @@
 # theb
 
-FIXME: description
+A simple AI which will think and evolve
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/aivijay/theb/archive/master.zip
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar theb-0.1.0-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
 
 ## Examples
 
