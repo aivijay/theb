@@ -20,10 +20,6 @@ Download from https://github.com/aivijay/theb/archive/master.zip
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
 Copyright © 2016 FIXME
