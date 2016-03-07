@@ -1,4 +1,36 @@
 # theb
-Simple AI which common sense
 
-An attempt to build an AI which could think and self evolve.
+FIXME: description
+
+## Installation
+
+Download from http://example.com/FIXME.
+
+## Usage
+
+FIXME: explanation
+
+    $ java -jar theb-0.1.0-standalone.jar [args]
+
+## Options
+
+FIXME: listing of options this app accepts.
+
+## Examples
+
+...
+
+### Bugs
+
+...
+
+### Any Other Sections
+### That You Think
+### Might be Useful
+
+## License
+
+Copyright © 2016 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
