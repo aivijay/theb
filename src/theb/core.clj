@@ -14,7 +14,7 @@
 (pretty/install-pretty-logging)
 (pretty/install-uncaught-exception-handler)
 
-(def conf (edn/read-string (slurp "conf.edn")))
+(def conf (edn/read-string (slurp "conf/config.edn")))
 
 (defn -main
   "Starts the application from command line. Also saves and logs process ID. The system that is fired up when
