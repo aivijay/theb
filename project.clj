@@ -30,7 +30,12 @@
                  [cljsjs/moment "2.10.6-3"]
                  [clj-pid "0.1.2"]
                  [ring/ring-ssl "0.2.1" :exclusions [ring/ring-core]]
-                 [metrics-clojure "2.6.1"]]
+                 [metrics-clojure "2.6.1"]
+                 [incanter "1.5.7"]
+                 [incanter/incanter-core "1.5.7"]
+                 [incanter/incanter-io "1.5.7"]
+                 [incanter/incanter-charts "1.5.7"]
+                 [incanter/incanter-processing "1.3.0"]]
   :plugins [[lein-expectations "0.0.8"]]
   :main ^:skip-aot theb.core
   :target-path "target/%s"

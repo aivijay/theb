@@ -24,5 +24,4 @@
   (pid/save (:pidfile-name conf))
   (pid/delete-on-shutdown! (:pidfile-name conf))
   (log/info "Application started, PID" (pid/current))
-  (restart!)
   (Thread/sleep Long/MAX_VALUE))
